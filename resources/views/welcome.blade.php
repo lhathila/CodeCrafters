@@ -345,7 +345,7 @@
                 </ul>
                 <div class="d-flex flex-column flex-lg-row gap-2">
                     <a href="login.php" class="btn btn-outline-royal px-4">Log In</a>
-                    <a href="#contact" class="btn btn-royal px-4">Get Started</a>
+                    <a href="login.php" class="btn btn-royal px-4">Get Started</a>
                 </div>
             </div>
         </div>
