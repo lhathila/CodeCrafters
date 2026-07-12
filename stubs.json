@@ -1,0 +1,9 @@
+{
+  "name": "CodeCrafters/stubs",
+  "autoload": {
+    "files": [
+      "app/Stubs/Laravel.php",
+      "app/Stubs/functions.php"
+    ]
+  }
+}
